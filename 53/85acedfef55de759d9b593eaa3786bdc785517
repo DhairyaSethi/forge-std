@@ -1,0 +1,21 @@
+src/Vm.sol
+  s_13d08828548eba::t_80b934ae5cbd7d 866-868,876-877,902-905,1190,1193,1196,1202,1205,1211,1214,1217,1223,1226,1229,1232,1238,1241,1247,1250,1256,1259,1265,1268,1274,1277,1283,1286,1292,1295,1301,1310,1316,1319,1325,1328,1337,1441,2550-2551,2753-2767
+test/Vm.t.sol
+  s_13d08828548eba::t_080ebcc9cf71e7 12,16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5385acedfef55de759d9b593eaa3786bdc785517",
+  "prompts": {},
+  "sessions": {
+    "s_13d08828548eba": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e1c4d0f4-ec86-460c-8f74-44b0d0d80705",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  }
+}
